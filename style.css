@@ -1,0 +1,38 @@
+body {
+    background-color: #777;
+    width: 960px;
+}
+header {
+    background-color: #ebebeb;
+    text-align: center;
+    width: 495px;
+}
+nav {
+    background-color: #ebebeb;
+    text-align: center;
+}
+aside {
+    background-color: #ebebeb;
+    text-align: center;
+}
+section {
+    background-color: #ebebeb;
+    text-align: center;
+}
+article {
+    background-color: #777;
+    text-align: center;
+}
+h1{
+    background-color: #ebebeb;
+    text-align: center;
+}
+p {
+    background-color: #ebebeb;
+    text-align: center;
+}
+footer {
+    background-color: #ebebeb;
+    text-align: center;
+
+}
